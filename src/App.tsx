@@ -17,6 +17,13 @@ function App() {
 					<p className='p-1 text-center'>harsh</p>
 				</div>
 			</div>
+			<div className='flex gap-2 sm:flex-nowrap flex-wrap'>
+			<div className='bg-lime-600 text-orange-100 w-full'>
+<p className='p-1 text-center'></p>
+					
+				
+			</div>
+			</div>
 		</main>
 	)
 }
